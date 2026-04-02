@@ -10,11 +10,11 @@ This repository contains a collection of Jupyter notebooks focused on Data Scien
 
 ## 🚀 What You’ll Find
 
-| Project      | Description                                 | Techniques                    | Status |
-| ------------ | ------------------------------------------- | ----------------------------- | ------ |
-| 📊 Project 1 | Exploratory analysis + classification       | EDA, Logistic Regression, SVM | ✅      |
-| 📉 Project 2 | Regression problem with feature engineering | Scaling, Linear Models        | ✅      |
-| 🤖 Project 3 | Model comparison study                      | KNN, Decision Tree, Metrics   | 🚧     |
+| Project        | Description                                  | Techniques                                                | Status |
+| ------------   | -------------------------------------------- |---------------------------------------------------------- | ------ |
+| Classification | Supervised classification algorithms         | EDA, Logistic Regression, KNN, SVM ,Decision Tree, Metrics| ✅      |
+| Regression     | Regression problems with feature engineering | Scaling, Linear Models                                    | ✅      |
+| Usupervised    | PCA, DBSCAN                                  | KNN, Decision Tree, Metrics                               | 🚧      |
 
 
 ## Pipeline structure
