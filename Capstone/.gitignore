@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Generated/intermediate artifacts — reproducible by running notebooks 02 -> 04
+data/processed/
+models/*.joblib
