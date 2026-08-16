@@ -1,0 +1,11 @@
+facenet-pytorch
+torch
+torchvision
+faiss-cpu
+Pillow
+numpy
+opencv-python
+tqdm
+fastapi
+uvicorn[standard]
+python-multipart
